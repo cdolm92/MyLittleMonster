@@ -17,6 +17,7 @@
 		F7FDED7B1C69A33500016E9F /* death.wav in Resources */ = {isa = PBXBuildFile; fileRef = F7FDED771C69A33500016E9F /* death.wav */; };
 		F7FDED7C1C69A33500016E9F /* heart.wav in Resources */ = {isa = PBXBuildFile; fileRef = F7FDED781C69A33500016E9F /* heart.wav */; };
 		F7FDED7D1C69A33500016E9F /* skull.wav in Resources */ = {isa = PBXBuildFile; fileRef = F7FDED791C69A33500016E9F /* skull.wav */; };
+		F7FDED7F1C69B3F600016E9F /* DragImg.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDED7E1C69B3F600016E9F /* DragImg.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		F7FDED771C69A33500016E9F /* death.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = death.wav; sourceTree = "<group>"; };
 		F7FDED781C69A33500016E9F /* heart.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = heart.wav; sourceTree = "<group>"; };
 		F7FDED791C69A33500016E9F /* skull.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = skull.wav; sourceTree = "<group>"; };
+		F7FDED7E1C69B3F600016E9F /* DragImg.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragImg.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				F7FDED781C69A33500016E9F /* heart.wav */,
 				F7FDED791C69A33500016E9F /* skull.wav */,
 				F7FDED621C69A17E00016E9F /* AppDelegate.swift */,
+				F7FDED7E1C69B3F600016E9F /* DragImg.swift */,
 				F7FDED641C69A17E00016E9F /* ViewController.swift */,
 				F7FDED661C69A17E00016E9F /* Main.storyboard */,
 				F7FDED691C69A17E00016E9F /* Assets.xcassets */,
@@ -156,6 +159,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7FDED7F1C69B3F600016E9F /* DragImg.swift in Sources */,
 				F7FDED651C69A17E00016E9F /* ViewController.swift in Sources */,
 				F7FDED631C69A17E00016E9F /* AppDelegate.swift in Sources */,
 			);
