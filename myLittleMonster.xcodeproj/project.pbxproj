@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F79F18401C6AFF6F00D07416 /* MonsterImg.swift in Sources */ = {isa = PBXBuildFile; fileRef = F79F183F1C6AFF6F00D07416 /* MonsterImg.swift */; };
 		F7FDED631C69A17E00016E9F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDED621C69A17E00016E9F /* AppDelegate.swift */; };
 		F7FDED651C69A17E00016E9F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDED641C69A17E00016E9F /* ViewController.swift */; };
 		F7FDED681C69A17E00016E9F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F7FDED661C69A17E00016E9F /* Main.storyboard */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F79F183F1C6AFF6F00D07416 /* MonsterImg.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MonsterImg.swift; sourceTree = "<group>"; };
 		F7FDED5F1C69A17E00016E9F /* myLittleMonster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myLittleMonster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7FDED621C69A17E00016E9F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F7FDED641C69A17E00016E9F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 				F7FDED691C69A17E00016E9F /* Assets.xcassets */,
 				F7FDED6B1C69A17E00016E9F /* LaunchScreen.storyboard */,
 				F7FDED6E1C69A17E00016E9F /* Info.plist */,
+				F79F183F1C6AFF6F00D07416 /* MonsterImg.swift */,
 			);
 			path = myLittleMonster;
 			sourceTree = "<group>";
@@ -159,6 +162,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F79F18401C6AFF6F00D07416 /* MonsterImg.swift in Sources */,
 				F7FDED7F1C69B3F600016E9F /* DragImg.swift in Sources */,
 				F7FDED651C69A17E00016E9F /* ViewController.swift in Sources */,
 				F7FDED631C69A17E00016E9F /* AppDelegate.swift in Sources */,
@@ -311,6 +315,7 @@
 				F7FDED731C69A17E00016E9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
